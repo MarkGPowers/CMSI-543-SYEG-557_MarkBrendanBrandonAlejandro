@@ -1,0 +1,45 @@
+
+Evaluation of Homework Assignment #2
+CMSI 543 / SYEG 657
+====================================
+
+Problem 4.4       :   1 pt.
+Problem 4.5       :   1 pt.
+Problem 4.8       :   1 pt.
+Problem 4.9       :   1 pt.
+Problem 4.12      :   1 pt.
+Problem 4.15      :   1 pt.
+Problem 4.16      :   1 pt.
+Problem 4.19      :   1 pt.
+Problem 4.20      :   1 pt.
+Problem 5.1       :   1 pt.
+Problem 5.2       :   1 pt.
+Problem 5.3       :   1 pt.
+Problem 5.4       :   1 pt.
+Problem 5.8       :   1 pt.
+Problem 5 9       :   1 pt.
+Problem 5.15      :   1 pt.
+Problem 5.17      :   1 pt.
+Problem 6.3       :   1 pt.
+Problem 6.7       :   0.5 pt.
+Problem 6.9       :   1 pt.
+Problem 6.10      :   1 pt.
+Problem 6.13a     :   1 pt.
+Problem 6.13b     :   1 pt.
+Problem 6.14      :   1 pt.
+Problem 6.16      :   1 pt.
+Problem 6.18      :   1 pt.
+Grammar           :   1 pt.
+
+Total possible score: 27 out of 27 = 100% which is an A-plus
+
+Your score: 26.5 out of 27 = 98.15% which is an A-plus
+
+A few comments:
+
+problem 6.7 ~ something else to consider, mentioned in the text, is that
+   with the larger numbers in the Fibonacci series there is less certainty
+   of the actual 'size' of the task.  The bigger the number, the more it
+   is likely that task will be broken down into smaller user stories.
+
+Nice work!
