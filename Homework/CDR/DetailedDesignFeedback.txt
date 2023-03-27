@@ -1,0 +1,30 @@
+
+Detailed Design Document
+cmsi 543/SYEG 557 Feedback
+Spring 2023 Semester Project
+==============================
+Project: Super Hero Database
+Type:    Application
+
+General
+This is very complete and professional!
+
+Section 2.1
+Nice job here ~ excellent work for the detailed document
+
+Section 2.2
+Very very nice work on these user stories!  There is always room to break
+   things down a bit further, but these are very complete.
+
+Section 2.3
+Excellent, except I think you mean 'Detailed Design Description' and not
+   'preliminary'.... :)
+
+Section 2.4
+Excellent!
+
+Section 2.5
+Excellent!
+
+All in all, very nice work on this!  Professional-quality work which is
+   an "A-plus" job.
