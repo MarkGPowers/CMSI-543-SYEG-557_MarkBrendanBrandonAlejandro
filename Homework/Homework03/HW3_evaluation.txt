@@ -1,0 +1,58 @@
+
+Evaluation of Homework Assignment #3
+CMSI 543 / SYEG 657
+====================================
+
+Problem 7.1       :   1/1 pt.
+Problem 7.3       :   1/1 pt.
+Problem 7.5       :   1/1 pt.
+Problem 7.6       :   1/1 pt.
+Problem 7.9       :   1/1 pt.
+Problem 7.11      :   1/1 pt.
+Problem 8.1       :   1/1 pt.
+Problem 8.2       :   1/1 pt.
+Problem 8.6       :   1/1 pt.
+Problem 8.7       :   1/1 pt.
+Problem 8.13      :   0.5/1 pt.
+Problem 8.15      :   1/1 pt.
+Problem 8.16      :   1/1 pt.
+Problem 8.18      :   1/1 pt.
+Problem 8.19      :   1/1 pt.
+Problem 9.6       :   1/1 pt.
+Problem 9.8       :   1/1 pt.
+Problem 9.9       :   1/1 pt.
+Problem 9.12      :   1/1 pt.
+Problem 9.14      :   1/1 pt.
+Problem 9.17      :   1/1 pt.
+Problem 9.19      :   1/1 pt.
+Grammar           :   1/1 pt.
+
+Total possible points: 23
+Total possible score: 23 out of 23 = 100% which is an A-plus
+
+Your score: 22.5 out of 23 = 97.83% which is an A-plus
+
+Excellent answers, well thought out and using your own critical thinking
+   skills!
+
+On problem 8.13, you've provided the status answers, but the question asks
+   you what MORE does the stand-up provide.  It's a chance for the team to
+   'calibrate' the team's progress for the iteration to see how they are
+   doing overall with the sprint, as well as to provide assistance to team
+   member[s] who may be stuck.
+
+Great job on this final assignment!
+
+====================================
+Group scores so far:
+
+   homework01   : 15.00/15 = 100.00% which is  5.00 points
+   prelim design: 10.00/10 = 100.00% which is 10.00 points
+   homework02   : 26.50/27 =  98.15% which is  4.91 points
+   detail design: 10.00/10 = 100.00% which is 10.00 points
+   homework03   : 22.50/23 =  97.83% which is  4.89 points
+   final project: 35.00/35 = 100.00% which is 35.00 points
+                                  total:  69.80 out of 70.00 = 99.71%
+                                     which is an A-plus
+
+Nice work!
